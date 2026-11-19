@@ -69,7 +69,7 @@ A web-based vehicle rental management system developed as a group project for th
 | 1 | Muhamad Alfaizi Absaeni | `001202500035` | Database & QA Testing | [@alfaiziabsaeni-art](https://github.com/alfaiziabsaeni-art) |
 | 2 | Sadam Rivaldi Saputro | `001202500062` | Backend Developer | [@sadamrs](https://github.com/sadamrs) |
 | 3 | Farrel Manggala Akbar Irawan | `001202500028` | Frontend Developer (Tenant / Public Page) | [@Aluphie](https://github.com/farrelmanggala0-oss) |
-| 4 | Kevin Linanta | `Student ID 4` | Frontend Developer (Admin & Field Worker Page) | [@username4](https://github.com/username4) |
+| 4 | Kevin Linanta | `001202500092` | Frontend Developer (Admin & Field Worker Page) | [@Kevin]([https://github.com/username4](https://github.com/vinnlieee)) |
 
 ---
 
